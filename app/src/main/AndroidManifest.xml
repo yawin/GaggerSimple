@@ -17,16 +17,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="powerzhou.com.testapp.SecondActivity"
-            android:launchMode="singleTask"
-            android:taskAffinity="@string/affinity"
-            >
-        </activity>
-        <activity android:name="powerzhou.com.testapp.ThirdActivity"
-            android:taskAffinity="@string/affinity"
-            android:launchMode="singleTask"
-            >
-        </activity>
         <activity android:name="powerzhou.com.testapp.UserActivity"
             android:taskAffinity="@string/affinity"
             android:launchMode="singleTask"
