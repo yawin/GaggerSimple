@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="affinity">a.b</string>
+    <string name="affinity1">a.c</string>
+</resources>
